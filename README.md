@@ -22,4 +22,5 @@ Upon launching the application, users are prompted to choose an S&P 500 stock fr
 
 
 Check out the user interface we built: https://stock-analytics.streamlit.app/
-(To deploy the app we created another repo: )
+
+(To deploy the app we created another repo: https://github.com/Amey1398/stock-app-deployment/tree/main)
